@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @reshuk-code<br><br>👀 I’m interested in web development, especially working on front-end technologies.<br>🌱 I’m currently learning React and Flask for building modern web applications.<br>💞️ I’m looking to collaborate on web development projects, particularly with a focus on creating responsive and interactive user interfaces.<br>📫 How to reach me: You can reach me via email at reshuksapkota2007@gmail.com.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm a teen exploring the world of front-end development and looking for mentors or experienced developers to guide me in my web development journey!
+👋 Hi, I’m @reshuk-code<br><br>👀 I’m interested in web development, especially working on MERN technologies.<br>🌱 I’m currently learning Flask for building modern web applications.<br>💞️ I’m looking to collaborate on web development projects, particularly with a focus on creating responsive and interactive user interfaces.<br>📫 How to reach me: You can reach me via email at reshuksapkota2007@gmail.com.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm a teen exploring the world of web development and looking for mentors or experienced developers to guide me in my web development journey!
 
 
 ## 🌐 Socials:
