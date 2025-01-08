@@ -1,18 +1,13 @@
-# 💫 About Me:
-👋 Hi, I’m @reshuk-code<br><br>👀 I’m interested in web development, especially working on MERN technologies.<br>🌱 I’m currently learning Flask for building modern web applications.<br>💞️ I’m looking to collaborate on web development projects, particularly with a focus on creating responsive and interactive user interfaces.<br>📫 How to reach me: You can reach me via email at reshuksapkota2007@gmail.com.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm a teen exploring the world of web development and looking for mentors or experienced developers to guide me in my web development journey!
+<h1 align="center">Hi 👋, I'm reshuk-code AKA Reshuk Sapkota</h1>
+<h3 align="center">a MERN/Python Developer from Nepal, Passionate about WEB-TECHNOLOGIES.</h3>
 
+- 📫 How to reach me **reshuksapkota2007@gmail.com**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/reshuk.sapkota) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/reshuk49) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-# 💻 Tech Stack:
- ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PYTHON](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![REACT](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=reshuk-code&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=reshuk-code&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reshuk-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=reshuk-code&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reshuk-code&show_icons=true&locale=en&layout=compact" alt="reshuk-code" /></p>
