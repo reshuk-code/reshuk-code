@@ -1,13 +1,78 @@
-<h1 align="center">Hi 👋, I'm reshuk-code AKA Reshuk Sapkota</h1>
-<h3 align="center">a MERN/Python Developer from Nepal, Passionate about WEB-TECHNOLOGIES.</h3>
 
-- 📫 How to reach me **reshuksapkota2007@gmail.com**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+# Hey, I'm Reshuk 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+**Software Developer · Founder @ Antqr Technologies**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reshuk-code&show_icons=true&locale=en&layout=compact" alt="reshuk-code" /></p>
+Building products, exploring systems, and turning ideas into software.
+
+Based in Nepal 🇳🇵
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:reshuksapkota2007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-reshuk--code-181717?style=flat-square&logo=github)](https://github.com/reshuk-code)
+
+</div>
+
+---
+
+### About me
+
+I'm a developer and tech entrepreneur interested in building practical, scalable software.
+
+I started with web development, but my curiosity has taken me into backend engineering, system design, AI, and fintech.
+
+I'm also the founder of **Antqr Technologies**, where I experiment with ideas and build independent products.
+
+- 💻 Working with **Next.js, React, Node.js, and Python**
+- 🧠 Learning more about **system architecture, databases, and infrastructure**
+- 🚀 Building products in **fintech, productivity, and social platforms**
+- 🛠️ Interested in **developer tools, open source, and AI**
+- 🌱 Always learning something new
+
+### Tech stack
+
+**Languages**
+
+![Languages](https://skillicons.dev/icons?i=ts,js,python,cpp,html,css)
+
+**Frameworks & Runtime**
+
+![Frameworks](https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind)
+
+**Databases & Infrastructure**
+
+![Infrastructure](https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis,docker)
+
+**Tools**
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux)
+
+### What I'm building
+
+| Project | Description |
+| :--- | :--- |
+| **Antqr Technologies** | My technology company, focused on creating independent software products. |
+| **Paymequote** | Exploring simpler payment experiences for creators, sellers, and businesses. |
+| **Traco** | A personal finance and expense-tracking application. |
+| **Antqr Social** | Experimenting with communities, social interactions, and content discovery. |
+
+### GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=reshuk-code&show_icons=true&hide_border=true&theme=transparent" alt="Reshuk's GitHub stats" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshuk-code&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Too curious to stop learning. Too ambitious to stop building.**
+
+<sub>Made with curiosity, caffeine, and a lot of commits.</sub>
+
+</div>
