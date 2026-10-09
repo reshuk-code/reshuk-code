@@ -3,7 +3,7 @@
 
 # Hey, I'm Reshuk 👋
 
-**Software Developer · Founder @ Antqr Technologies**
+**Software Developer · @ Aviva Web Technologies**
 
 Building products, exploring systems, and turning ideas into software.
 
